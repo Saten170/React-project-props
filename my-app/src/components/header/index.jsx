@@ -5,7 +5,7 @@ class Header extends React.Component{
     render(){
         return <>
          <div id="header">
-               <div> <img src={image1}/></div>
+               {/* <div> <img src={image1}/></div> */}
               <div id="container"> 
               <a  id='home' href="">Home </a>
                 <a href="">About</a>
